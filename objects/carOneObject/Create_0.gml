@@ -1,0 +1,9 @@
+isAI = true;
+direction = 0;
+destination = room_width;
+forwardSpeed = 3;
+backwardSpeed = -2;
+turnRadius = 0.6;
+acceleration = 0.4;
+lapCountOne = 0;
+lapOne = 0;

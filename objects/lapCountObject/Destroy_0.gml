@@ -1,0 +1,1 @@
+//lapCountSpawnerObject.spawns -= 1;
